@@ -82,6 +82,3 @@ class operaciones_algebraicas:
    
   
 a = operaciones_algebraicas()
- 
-a.operaciones_polinomios('-2x', 4,'-2x',2, '2x')
-a.mul_escalar(3,5,4)
